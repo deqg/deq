@@ -1,3 +1,5 @@
+import torch
+import numpy as np
 # Code from Greg Yang https://github.com/thegregyang/GP4A
 def VErf(cov):
     '''
